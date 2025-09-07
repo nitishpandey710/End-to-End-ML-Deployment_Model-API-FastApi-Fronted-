@@ -25,7 +25,9 @@ Insurance_Premium_Data.csv – sample training data
 #How to Run the Code:
 
 conda activate C:\Users\Nitish\Desktop\Coding\FastAPI\venv_test_fastapi
+
 uvicorn app:app --reload
+
 streamlit run frontend.py
 
 Example request (POST /predict)
