@@ -1,11 +1,12 @@
 US Insurance Premium Classifier 
+
 We trained a scikit-learn model on US insurance data, engineered features (BMI, age_group, lifestyle_risk, city_tier), and saved the fitted pipeline as model.pkl.
 Then we served predictions via a FastAPI /predict endpoint and built a Streamlit UI that posts user inputs to the API and shows the predicted premium (Low/Medium/High).
 
 Predict: Low / Medium / High premium using a trained scikit-learn pipeline served by FastAPI with a Streamlit UI.
 
-.
-├─ frontend.py                      # FastAPI server (loads model.pkl)
+
+├─ frontend.py                 # FastAPI server (loads model.pkl)
 ├─ streamlit_app.py            # Streamlit UI (calls FastAPI)
 ├─ model.pkl                   # Trained sklearn Pipeline
 ├─ Insurance_Premium_Data.csv  # 200-row training data (US cities)
@@ -13,13 +14,16 @@ Predict: Low / Medium / High premium using a trained scikit-learn pipeline serve
 └─ README.md
 
 
-Files
+
+Files:
+
 frontend.py – FastAPI server (loads model.pkl, exposes /predict, /predict_proba)
 streamlit_app.py – Streamlit UI (calls FastAPI)
 model.pkl – trained pipeline
 Insurance_Premium_Data.csv – sample training data
 
 #How to Run the Code:
+
 conda activate C:\Users\Nitish\Desktop\Coding\FastAPI\venv_test_fastapi
 uvicorn app:app --reload
 streamlit run frontend.py
