@@ -1,0 +1,201 @@
+age,weight,height,income_lpa,smoker,city,occupation,insurance_premium_category
+65,45.0,1.74,25.88,False,San Diego,retail_staff,Low
+22,45.0,1.75,13.28,False,Las Vegas,doctor,Low
+43,54.1,1.5,20.41,False,El Paso,sales_executive,Medium
+72,79.0,1.82,5.75,True,New York,artist,High
+21,89.0,1.69,17.02,False,Nashville,lawyer,Low
+37,75.3,1.78,9.09,False,San Diego,security_guard,Low
+41,88.7,1.61,25.69,False,El Paso,software_engineer,Low
+57,68.2,1.93,12.05,False,Columbus,nurse,Medium
+46,106.0,1.89,25.96,False,San Diego,business_owner,Medium
+75,46.9,1.53,10.97,False,Las Vegas,business_owner,Medium
+32,86.8,1.83,15.97,False,Memphis,freelancer,Low
+41,69.1,1.66,17.45,False,Charlotte,artist,Medium
+26,52.7,1.68,5.4,False,Baltimore,nurse,Medium
+43,116.6,1.5,13.89,True,Oklahoma City,accountant,High
+64,81.8,1.78,14.25,False,Memphis,software_engineer,Medium
+60,103.3,1.68,18.74,False,Indianapolis,researcher,Medium
+44,72.4,1.76,60.0,True,Seattle,doctor,Medium
+26,77.1,1.71,12.94,True,Baltimore,freelancer,High
+57,75.7,1.83,36.88,False,Baltimore,unemployed,Low
+56,113.9,1.69,16.12,False,Nashville,accountant,Medium
+22,82.8,1.69,10.96,False,Jacksonville,researcher,Medium
+66,51.4,1.74,18.51,False,Chicago,software_engineer,Medium
+25,48.1,1.78,9.48,False,Detroit,security_guard,Low
+62,130.0,1.6,11.17,False,San Francisco,freelancer,High
+18,81.5,1.55,18.57,True,San Antonio,unemployed,High
+29,47.2,1.7,8.3,True,Philadelphia,electrician,Medium
+73,78.1,1.77,21.36,False,San Jose,software_engineer,Medium
+76,78.4,1.73,11.02,False,Oklahoma City,chef,High
+24,91.3,1.87,12.22,False,Austin,unemployed,Low
+37,82.2,1.71,20.83,False,Columbus,government_job,Low
+78,79.6,1.81,9.03,False,El Paso,construction_worker,Medium
+62,86.8,1.79,25.71,False,Los Angeles,artist,Medium
+23,71.4,1.77,16.78,True,Houston,researcher,Medium
+74,57.7,1.52,14.45,False,Philadelphia,doctor,High
+42,75.1,1.84,7.35,False,Phoenix,student,Low
+73,86.3,1.65,21.64,False,Jacksonville,accountant,Medium
+71,72.0,1.72,8.33,False,Denver,chef,Medium
+66,111.1,1.71,14.21,False,Indianapolis,driver,Medium
+77,88.6,1.74,25.31,False,Denver,researcher,Medium
+79,45.0,1.65,26.46,False,San Jose,business_owner,Medium
+18,86.5,1.7,7.7,False,Phoenix,driver,Low
+52,97.7,1.65,18.74,False,Memphis,chef,Medium
+74,84.4,1.67,4.93,False,Baltimore,chef,High
+27,95.0,1.72,20.38,False,Indianapolis,chef,Low
+32,78.0,1.78,11.5,False,Portland,researcher,Low
+56,79.0,1.73,8.22,False,Chicago,electrician,Medium
+22,65.8,1.8,21.92,False,San Diego,unemployed,Low
+64,72.8,1.75,10.37,False,San Jose,researcher,Medium
+27,52.3,1.78,60.0,True,Indianapolis,unemployed,Low
+41,84.0,1.8,41.32,True,Memphis,researcher,Medium
+53,64.3,1.62,12.95,False,Los Angeles,retired,Medium
+21,79.7,1.56,8.07,False,Fort Worth,researcher,Medium
+26,56.4,1.76,8.53,False,Chicago,doctor,Low
+37,64.5,1.65,18.06,False,Nashville,doctor,Low
+66,82.5,1.81,15.29,False,Philadelphia,driver,Low
+19,71.5,1.69,32.13,False,Charlotte,business_owner,Low
+18,58.3,1.5,60.0,False,San Antonio,sales_executive,Low
+34,68.6,1.55,19.38,False,Las Vegas,retired,Low
+72,96.4,1.79,17.36,False,Jacksonville,private_job,Medium
+49,45.0,1.64,9.91,False,Las Vegas,freelancer,Medium
+47,111.4,1.66,12.57,False,Houston,data_scientist,Medium
+62,69.4,1.59,16.72,False,Las Vegas,mechanic,Medium
+46,66.1,1.65,11.69,False,Los Angeles,lawyer,Medium
+78,58.7,1.8,19.96,False,Las Vegas,unemployed,Medium
+25,64.3,1.67,42.31,False,Las Vegas,student,Low
+41,88.4,1.7,16.5,False,Oklahoma City,lawyer,Medium
+28,82.7,1.72,13.81,False,Boston,government_job,Low
+59,112.3,1.85,33.86,False,Seattle,mechanic,Medium
+53,88.1,1.58,17.14,True,Denver,teacher,High
+18,57.8,1.79,11.4,False,Charlotte,business_owner,Low
+79,113.4,1.71,20.76,False,Boston,doctor,High
+25,79.8,1.72,11.56,True,Seattle,retired,Medium
+41,104.5,1.71,7.93,False,El Paso,business_owner,Medium
+46,85.2,1.56,16.9,True,Seattle,software_engineer,High
+73,86.6,1.72,9.61,False,New York,data_scientist,Medium
+50,76.0,1.78,26.19,False,Washington,driver,Low
+39,104.4,1.77,13.24,False,Los Angeles,teacher,Medium
+54,75.8,1.7,15.4,True,Phoenix,researcher,High
+53,80.3,1.81,18.56,False,Indianapolis,nurse,Low
+51,75.4,1.7,13.76,False,Oklahoma City,lawyer,Medium
+21,115.8,1.6,13.5,False,Portland,data_scientist,Low
+77,116.2,1.81,17.74,False,Boston,construction_worker,Medium
+45,48.8,1.64,8.89,False,Boston,freelancer,Medium
+51,79.3,1.68,11.54,True,Nashville,freelancer,High
+37,96.9,1.78,15.54,False,Nashville,government_job,Medium
+45,75.5,1.64,13.21,False,Nashville,accountant,Medium
+22,61.2,1.6,18.99,True,Portland,sales_executive,High
+37,61.9,1.62,7.99,True,El Paso,security_guard,Medium
+51,59.0,1.86,12.8,False,Charlotte,warehouse_worker,Low
+77,83.9,1.87,8.86,False,Las Vegas,software_engineer,Medium
+48,90.1,1.61,16.28,False,Columbus,construction_worker,Medium
+75,62.0,1.69,15.37,False,Nashville,student,Medium
+55,63.7,1.57,13.11,False,Louisville,chef,Medium
+27,67.4,1.62,19.33,False,Nashville,nurse,Low
+47,84.9,1.89,9.12,False,New York,construction_worker,Medium
+35,63.7,1.78,4.14,False,Jacksonville,data_scientist,Low
+49,45.0,1.73,26.26,False,Seattle,data_scientist,Low
+20,60.2,1.73,10.54,False,Los Angeles,mechanic,Low
+37,93.8,1.65,12.79,False,Philadelphia,doctor,Medium
+68,63.1,1.8,17.75,True,Dallas,sales_executive,High
+36,81.3,1.68,10.9,False,San Jose,mechanic,Medium
+39,86.1,1.74,13.24,True,Denver,doctor,High
+73,105.8,1.79,13.37,False,Houston,driver,Medium
+21,77.8,1.72,29.63,False,Portland,mechanic,Low
+29,45.9,1.74,20.22,False,Austin,government_job,Medium
+76,88.6,1.69,51.38,False,Oklahoma City,mechanic,Medium
+65,45.0,1.76,48.48,True,New York,construction_worker,Medium
+34,74.3,1.75,17.14,False,Philadelphia,business_owner,Medium
+30,79.4,1.61,14.61,False,Austin,business_owner,Medium
+47,68.7,1.77,38.36,False,Phoenix,accountant,Low
+61,64.3,1.76,18.17,False,New York,sales_executive,Medium
+59,84.5,1.75,10.52,True,Denver,software_engineer,High
+27,82.4,1.78,14.54,False,Denver,researcher,Low
+30,64.6,1.83,15.54,False,Oklahoma City,retail_staff,Low
+21,60.4,1.71,25.91,True,Portland,chef,Medium
+64,61.2,1.75,23.24,False,Washington,business_owner,Medium
+32,74.9,1.69,60.0,True,Portland,nurse,Medium
+78,82.1,1.63,38.26,False,San Antonio,teacher,Medium
+38,85.3,1.56,13.11,False,New York,data_scientist,Medium
+71,45.7,1.76,24.5,False,New York,teacher,Medium
+78,80.8,1.74,5.38,False,Baltimore,government_job,Medium
+33,110.8,1.79,14.83,False,Portland,construction_worker,Medium
+77,76.6,1.6,28.09,True,San Jose,sales_executive,High
+53,78.7,1.91,22.31,False,Indianapolis,driver,Low
+66,107.8,1.61,28.79,True,Philadelphia,driver,High
+22,109.1,1.74,11.78,True,Las Vegas,private_job,Medium
+61,103.7,1.77,19.88,False,Fort Worth,security_guard,Medium
+26,93.3,1.63,29.47,True,El Paso,teacher,High
+44,92.7,1.77,11.01,False,Washington,accountant,Medium
+76,61.3,1.83,13.23,False,Nashville,freelancer,Medium
+72,76.5,1.55,20.15,False,Baltimore,accountant,High
+61,83.9,1.65,8.46,False,Chicago,artist,Medium
+65,69.7,1.73,7.89,False,San Jose,chef,Medium
+41,59.2,1.66,9.21,False,Washington,retail_staff,Medium
+31,100.0,1.55,6.34,False,Boston,lawyer,Medium
+68,114.6,1.62,18.34,True,Philadelphia,freelancer,High
+57,104.7,1.5,8.24,False,Indianapolis,sales_executive,High
+21,95.3,1.83,14.76,True,Memphis,software_engineer,Medium
+47,55.1,1.5,24.66,False,Nashville,freelancer,Medium
+30,73.1,1.6,15.44,True,Jacksonville,freelancer,Medium
+30,55.7,1.84,5.98,False,Detroit,software_engineer,Low
+33,111.9,1.95,10.46,False,Philadelphia,accountant,Low
+47,91.8,1.85,6.42,False,Memphis,private_job,Medium
+26,82.5,1.73,9.81,False,San Antonio,private_job,Medium
+72,53.4,1.68,6.12,False,Detroit,artist,Medium
+56,86.8,1.65,50.45,True,Philadelphia,student,Medium
+71,72.6,1.62,19.44,False,Columbus,teacher,Medium
+24,99.0,1.52,12.37,False,Houston,nurse,Medium
+39,74.7,1.73,9.7,False,Washington,driver,Medium
+62,85.0,1.72,26.44,False,Fort Worth,sales_executive,Medium
+45,99.5,1.5,11.4,True,San Jose,data_scientist,High
+25,95.2,1.65,7.88,False,Austin,government_job,Medium
+35,58.0,1.76,12.71,False,Jacksonville,teacher,Low
+60,94.0,1.78,32.13,False,San Antonio,government_job,Low
+65,71.7,1.79,23.47,False,Portland,sales_executive,Low
+23,88.6,1.7,37.08,False,Phoenix,chef,Low
+54,91.5,1.74,15.07,True,San Diego,artist,High
+70,69.2,1.71,8.38,False,Louisville,accountant,Medium
+59,84.5,1.81,6.4,False,Fort Worth,lawyer,Medium
+59,79.9,1.82,24.62,False,Chicago,business_owner,Low
+47,76.2,1.72,17.17,True,Louisville,data_scientist,High
+44,85.7,1.85,11.96,True,San Diego,doctor,Medium
+18,74.8,1.76,30.57,True,Oklahoma City,chef,Medium
+78,83.0,1.55,46.47,False,Memphis,data_scientist,Medium
+80,59.5,1.7,10.15,False,Fort Worth,sales_executive,Medium
+40,92.0,1.66,8.0,False,Indianapolis,doctor,Medium
+52,84.6,1.76,25.94,False,Las Vegas,government_job,Low
+30,96.1,1.65,6.22,True,Denver,retired,High
+24,78.3,1.83,3.01,False,Dallas,construction_worker,Low
+58,86.9,1.78,11.09,True,Denver,mechanic,High
+52,96.9,1.74,30.45,False,Chicago,accountant,Low
+77,74.7,1.68,17.55,False,Indianapolis,researcher,High
+60,69.7,1.77,15.63,False,Detroit,government_job,Medium
+64,83.3,1.62,13.53,True,Detroit,security_guard,High
+70,89.8,1.76,8.07,False,Houston,nurse,High
+67,83.9,1.73,9.6,True,San Francisco,warehouse_worker,High
+47,76.4,1.87,6.68,False,Nashville,warehouse_worker,Medium
+56,57.9,1.63,15.28,False,Las Vegas,warehouse_worker,Medium
+60,69.8,1.67,7.93,True,Seattle,lawyer,High
+35,45.0,1.52,29.27,False,Louisville,nurse,Low
+23,71.7,1.69,9.74,True,Denver,freelancer,Medium
+33,57.0,1.72,12.05,False,Seattle,mechanic,Low
+67,107.3,1.9,16.69,False,Seattle,chef,Medium
+72,61.6,1.74,12.01,True,Boston,data_scientist,High
+30,45.0,1.66,11.14,True,Baltimore,unemployed,Medium
+59,57.6,1.83,6.58,False,Portland,chef,Medium
+58,113.2,1.8,19.63,False,San Jose,security_guard,Medium
+46,83.8,1.77,19.02,True,Columbus,construction_worker,Medium
+72,83.5,1.7,12.14,False,Philadelphia,electrician,Medium
+65,63.3,1.77,6.23,True,Washington,student,High
+55,69.0,1.66,11.41,True,Washington,teacher,High
+27,105.5,1.82,36.0,False,New York,data_scientist,Low
+41,113.6,1.69,17.47,False,Chicago,data_scientist,Medium
+39,92.9,1.67,38.05,True,San Francisco,chef,Medium
+22,75.7,1.73,12.2,False,Las Vegas,lawyer,Low
+45,105.6,1.68,30.75,False,San Diego,construction_worker,Medium
+30,114.9,1.7,25.11,False,Denver,mechanic,Medium
+59,45.5,1.62,16.46,False,Columbus,software_engineer,Medium
+29,56.8,1.79,32.07,True,Houston,security_guard,Low
+24,92.7,1.61,7.64,False,Louisville,retired,Medium
